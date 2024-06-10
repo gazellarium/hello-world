@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gazellarium</title>
-    <link>http://gazellarium.githb.io/tags/</link>
+    <link>http://gazellarium.github.io/tags/</link>
     <description>Recent content in Tags on Gazellarium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://gazellarium.githb.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://gazellarium.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://gazellarium.githb.io/tags/blog/</link>
+      <link>http://gazellarium.github.io/tags/blog/</link>
       <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/blog/</guid>
+      <guid>http://gazellarium.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
-      <link>http://gazellarium.githb.io/tags/features/</link>
+      <link>http://gazellarium.github.io/tags/features/</link>
       <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/features/</guid>
+      <guid>http://gazellarium.github.io/tags/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>http://gazellarium.githb.io/tags/images/</link>
+      <link>http://gazellarium.github.io/tags/images/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/images/</guid>
+      <guid>http://gazellarium.github.io/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>http://gazellarium.githb.io/tags/code/</link>
+      <link>http://gazellarium.github.io/tags/code/</link>
       <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/code/</guid>
+      <guid>http://gazellarium.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://gazellarium.githb.io/tags/markdown/</link>
+      <link>http://gazellarium.github.io/tags/markdown/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/markdown/</guid>
+      <guid>http://gazellarium.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>http://gazellarium.githb.io/tags/words/</link>
+      <link>http://gazellarium.github.io/tags/words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gazellarium.githb.io/tags/words/</guid>
+      <guid>http://gazellarium.github.io/tags/words/</guid>
       <description></description>
     </item>
     
